@@ -1,0 +1,20 @@
+type: marketplace
+title: Kotlin for Java Developers
+language: English
+summary: Assignments for Coursera <a href="https://www.coursera.org/learn/kotlin-for-java-developers/">Kotlin
+  for Java Developers</a> course
+programming_language: Kotlin
+content:
+  - Mastermind
+  - Nice String
+  - Taxi Park
+  - Rationals
+  - Board
+  - Games
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+  - name: gradle/wrapper/gradle-wrapper.properties
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/30353-kotlin-for-java-developers/reviews
+yaml_version: 5

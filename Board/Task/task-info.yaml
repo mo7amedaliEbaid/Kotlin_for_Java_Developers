@@ -1,0 +1,52 @@
+type: edu
+files:
+  - name: src/board/BoardImpl.kt
+    visible: true
+    placeholders:
+      - offset: 90
+        length: 1849
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 90
+        initialized_from_dependency: false
+        encrypted_possible_answer: HcGtn8z475m33QXpCq3wCm63GIsqt7WzKjGHi6JNbR8=
+        selected: true
+        status: Solved
+      - offset: 1992
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 149
+        initialized_from_dependency: false
+        encrypted_possible_answer: v/RO7uaYjFdNNrbHSsMWsDIrEs0bUzHbQM1a7JQHnuY=
+        selected: false
+        status: Solved
+      - offset: 2000
+        length: 32
+        placeholder_text: // Add your implementations here
+        initial_state:
+          length: 32
+          offset: 157
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: src/board/Board.kt
+    visible: true
+    learner_created: false
+  - name: test/board/TestGameBoard.kt
+    visible: true
+    learner_created: false
+  - name: test/board/TestSquareBoard.kt
+    visible: true
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/7fkLn/board/discussions
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 12 May 2026 11:18:01 UTC"
+record: -1

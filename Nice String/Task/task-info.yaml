@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/nicestring/NiceString.kt
+    visible: true
+    placeholders:
+      - offset: 55
+        length: 257
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 55
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2y0r/+EL7yZrhGF9jeHYU/k9FM4Y4KYBebUxC8Ry6Ldo1M1J+rq9jm2Gk8/I82A99tG+Kdb/skyNyFJt8rND8oDpaN0C/BkApn1O3IWqHW2LSqEwnII9rJKhcWo9KZ3zO+n5itCKN/XcvCWtKkXM99EggDV9v8vWM+Al1bfwKBCfGRw1Q76QUwVlQdwYIh3ov1v5LQJmtJyAXystcggO06zhq14/9+4ZtwL+T8+znGmRzqs5OBMZc1q12b1rDv5bwS+uSUzptYmr2WC7imXhvOWidlsorzf/bFfxqkgJIXCLZ72Uv4Ikg98AClKQZfMYWxaYnf69fi3eE6/ywzSk6ybf/mNCv2p2RyCAUSW+DZ8=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/nicestring/TestNiceString.kt
+    visible: true
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/hlugM/nice-string/discussions
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 12 May 2026 11:07:42 UTC"
+record: -1

@@ -1,0 +1,96 @@
+type: edu
+files:
+  - name: src/taxipark/TaxiParkTask.kt
+    visible: true
+    placeholders:
+      - offset: 132
+        length: 965
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 132
+        initialized_from_dependency: false
+        encrypted_possible_answer: wAZr2l0HG8s6VWMM+5uPnim911ubYOXdMHw18deeLFQrhLHkAf/wdGJNs6kjtq/O
+        selected: false
+        status: Solved
+      - offset: 1262
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 303
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ar8ZkcY2DWR+pVq+XYsn51pwuUqkDY0U1iozhvuCmP2ibMTb02fNmehZhwFg7XHAQLN/1AMggsoc7b/f7/a5DdpNWYg1nsUg083YVewXrGSgtLgWJMxi5XFyOzWIlzmzNqAq0h5J03KQ3QUcCrRicnielPpT2/hAciiJc6Ke8gw=
+        selected: false
+        status: Solved
+      - offset: 1446
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 487
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6apyxuJ/esblWkE1+192xey/4JuQYbdKYKqVF4wDE4dkhHnTeKHVhk5ucWSeZGfTrEjfpu7tLR2vHKtYMCJ7qhysg92DNsuOi5rfrOqz4J/KbNv7ZaZeD8sZuWJwfrKVMkSpZ6r2AXeY7h5vfK1BmjBMOhwxJkt/Fk+tQ5ayqgfb0kCCUWc0ZgANcheddzVAyOO+4Sus11Uo4eDzL1MbeYm4dXNU9e04GlyP+RcCKmyBSl5MFy+H4S2RS2pMrnGq0dTOrPuRyG3Riit2GBDXOw==
+        selected: false
+        status: Solved
+      - offset: 1607
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 648
+        initialized_from_dependency: false
+        encrypted_possible_answer: dkAibsjkUy+lM+SQ8zeCJZ9Gb5I/2TOyWQWYWKCeQ3yh6pfQbYohXeAcSj/X/utWVq25ku+ME/sgRKAUY0wBIRvsPRyy8mNgWCAosNniKuT8nub/Lkcfn+sIRAemgsmlrTu2Gkd0LV4LGN7UL6ZJgwkhWJGAZsAR9g5zUxj9vRgBccuUUWncrvtTow7uRJVtSRZ4qBmSZgDKKr7Z6Dosy8wbNZdbVvHGc/bF7F18UtHfLnlGhlKZsnThx/vcbCMO/JAUSCUOoeqXIIWJ6rfnea2s9/U63sJ0KxADfVgqa0KPlYZi/cZOX6ohEvKTJW+5O1/X1/3o4JHofNkvckrvGdwY9TQAixqjDxpCCglBrhSOAZ/2xy6moKOoE5qJJKV+EpqnHeXFOJYezBMucn+BIg==
+        selected: false
+        status: Solved
+      - offset: 1899
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 940
+        initialized_from_dependency: false
+        encrypted_possible_answer: i9I5gYFqsXpAy00nx5aCf2jGnwSeKUY55+pQ3MKQKhKeu7blbmVvMPwfllTvdJ86CApayQjYf+IcEzO3TI2vlfXivJfS1bWcCBxE3YjA/qMJS2MaA8Iy1ZtyF6bQh20iQjyTgZ7HW2nMeK/5LWflHvPDe+PxX2SHv/XQrTptuzJ1HBMmBPlL5mZIQ6ka04IgdvffidBquPkjhBBLNjkAsKhHKGCXrHTJjs+7dwX3katgN8vs9oBoXZxu1CEUamGHu4CoDvMVod4DWKN4radF4g==
+        selected: false
+        status: Solved
+      - offset: 2045
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 1086
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZceZVphG8+NExoTmUutpDv3piosqKGPhFQEqPSYXrskMVeW61je6qLbYHJx/tfZaHDKxVcze9bn2SbkVgJQFDV81CkGkRGSiF5imEWRXcBZ2kMvhw0vobcIgqSFUrf0zGqkxBZcd5yqq6OON3Gcxk4wSf/xf2AOSD4ziBhyDBLSlRcxw69j5ob2aiOdHfmy52SV8qxqb92KQhtSyHHGn4LVnqkBtQQDXFGEuZflOgf6l+MMM6fTmx1h8/65+9Dd8xisH9fbPvF4ru+ZVgSQX6wJpIexAFdyESjMazkvEt0jNq3cEjmPCcOnh6pkKyIcKeSkUp27bz+mYDfOE4B+9RI0tubusGN2Q4zcqzqHWG4hTjmdYkh59ntnkflrNv9mxIiKYyzig60aNr0HAI0QSNjUUg/EUEEWwo/GR3MAW/VrESys/WNmQ/71xn5hO3epvwzzFYzqsRCSECMTPNGTUeRHGIYtgSUsyyXB558WZtnYubghgViz+v6boMe6GF+UjfKB86LbWa8Y5rrMuZxGpaJTm+ILF1pEskpRDG/XxWS2rFE4buEfz04Cj0/8PLn+25+JnZgk4UqLpmoQbncBIF3uY/cynU2QcrNvSE2E9CnFz5AalR/fAKlt6vQFwQqbw
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: src/taxipark/TaxiPark.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TaxiParkTestUtil.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask1FakeDrivers.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask2FaithfulPassengers.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask3FrequentPassengers.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask4SmartPassengers.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask5TheMostFrequentTripDurationPeriod.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask6ParetoPrinciple.kt
+    visible: true
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/xTPZT/taxi-park/discussions
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 12 May 2026 11:10:36 UTC"
+record: -1

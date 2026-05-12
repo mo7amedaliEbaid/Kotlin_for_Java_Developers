@@ -1,0 +1,208 @@
+type: edu
+files:
+  - name: src/board/BoardImpl.kt
+    visible: true
+    placeholders:
+      - offset: 90
+        length: 1824
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 90
+        initialized_from_dependency: false
+        encrypted_possible_answer: HcGtn8z475m33QXpCq3wCm63GIsqt7WzKjGHi6JNbR8=
+        selected: false
+        status: Solved
+      - offset: 1967
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 149
+        initialized_from_dependency: false
+        encrypted_possible_answer: v/RO7uaYjFdNNrbHSsMWsDIrEs0bUzHbQM1a7JQHnuY=
+        selected: false
+        status: Solved
+      - offset: 1975
+        length: 32
+        placeholder_text: // Add your implementations here
+        initial_state:
+          length: 32
+          offset: 157
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: src/board/Board.kt
+    visible: true
+    learner_created: false
+  - name: src/games/game/Game.kt
+    visible: true
+    learner_created: false
+  - name: src/games/game2048/Game2048.kt
+    visible: true
+    placeholders:
+      - offset: 1227
+        length: 130
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 1227
+        initialized_from_dependency: false
+        encrypted_possible_answer: t/8cYd+gJ4+JA1ouEyWYQI5x34YcwkCHaYnJenLoiE/yj5Tcp6waky+gGZVSvEaAmCM13/kpTJ4nz0f9/J3Po+Jq6rCC0/mjDTHwNMVbPzeZekskLwFH5ao4m50dPtMtwR6z6R4dH5HitiRS6k0m5eEBFsux1iKfVMisBJQdd5NRBNzy+CZU7U/QC/ZKvI7+uJKf4IbXtOxiCdd1TBECTw==
+        selected: false
+        status: Solved
+      - offset: 1829
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 1705
+        initialized_from_dependency: false
+        encrypted_possible_answer: JpfqPoKrg5wxEHh8SpBBmyeXK8huBOzTeeKxcBzPCM7LhVSEOUxK59S+Ydz/QYXfl0NkP+NLd6tSqmzjZyeJXdVLU73c0jfLWK8VhuDwBEnE4obNaoFdJ288yZZTODipZ3Kb4OGd2TRNn72uD3ZTp5wwvyu/NqXIGr/h/II/TdvzAbzM8TJWnSdawsBQXk0MRB4T9jWzzXsvlMaD6BiGDTRPxQiBnC76IGumYD/0hWF/AzaLjdBSy9J6AobyRgj/bDt7F+iyNwT8FfSNOXfxpnsaGL+GhYROkDFO3pFw3RyohsoOLCf0pkvQaJC/X1VuY22vXBJCUoQkgHdcMh4dy+UrkrPFlxXARRQoLwxUhlSaDWawN6vKa3wCfxhJJEzRaG130D8YyoM3nF0A7gaV93XuBtVWs2ioPP7EkEoGrNc3cv5mGFR8wsBFnWdO9RMSvxsRF87dN9i1nQfeihp1XJ+5EjsqI2VewWHNF6uRbA8lUcSThnwUoyTzHLEm+la4i9ybBPsycop7jX94tTJUPBTyvG7myuP+DO0nXTKd4kkXOJ+5vqrrzM+7jbAbgR3/w5oNrWm0XKpMI2VFtizkCw==
+        selected: false
+        status: Solved
+      - offset: 2176
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 2052
+        initialized_from_dependency: false
+        encrypted_possible_answer: MOloKFInKQrDIpTIjRsiANOlphDmhvrYo6nziOfKy3/ip6Kb0tDammU3NQymoHelzl1Zk8MiwAgqVPAy8advrX2A57cCx2sBUP5EowCs9Nd5RvMnW2+QyZcOnY9LMXQKNpuvgIjIm5ff7FNJP1+MLYDpaBkdNvFfT6gxksTZw8wEiQOTtQIUdY7jgNqeev9mefWzv5d5kAD0pQjfA3IYpDUkZpLdxl7FTTyaH+Bxs+OYw6dqiYZF9GwCfYCbZYveoalFbEL+fu3iOcJ0vAg468SPHW5zj8HvQinKWoZFsJlSQl6PvjTh4XMRtn6BbQYTEQYYxFPeNwfBk3dO9CfYIMJoiG/PtukNNXTqidP8k6s03Uc4G7ERxOb2ZNxK1FoJSLxZIbnLqm+MgHB744Z8UhgDnmZZyGCrstBf/dgf4YUEhg8nwP4ACNitvXvuA2GI+h8Hw0fMyOYb39IigpgCjXly/ddmTwd8rdx3oBPQfZwna3nhGNHJdLicwL1VrRn+vSGEVBGjTDGYY4ZGq7NMRzpEiIpFkkPbDYHEKnNLmiXr1FT3bL4rGOZtzYeWWD7fmi4bzhFmRJGPJpYnEMA0VQ==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: src/games/game2048/Game2048Helper.kt
+    visible: true
+    placeholders:
+      - offset: 726
+        length: 337
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 726
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5lEfwsxLPDxnywu19VbuOmrB4/PapCmXMZEI03mqeA7fo+CFPhSmXMXS+SI36wp/D5cppQwnyxHUCR3qUvsC737B9AOpT6Vs0nq8+6kXB10LCYOCkXsSGz8KhBaMi6L5NlvS4C//DkF9SbLnx1LNzFc294hz8FGt1Xq+I0+0GukoPwrmk2R7m0Uk52EBs7OGy8D0URLxTdPkCpUTRN4BVV9vei9gTG22a3S4e1FXP5AJqm2uNCUIgmETK0noE4VRHJmsUCl1ZsyPE6/3b8KuT8kmsmKlX8SH/9/gt1OGMFZ9Iy0Gi4rTxJhB6YaPz4cN724nAsZAY+Dx4UIeOOFDKQTM3smUhwk0eC16jwS7ID4b4rMgMgs5N8yw9fW/Uw+fCNNHei749x4Tcz2n1zU4kS1DT9OwmEMX3KZImb7ufxLqmSeW/tc/h9a5IokbbKcBNK4fpExDGfkdMBUjRuDyukOmb+TjjI8BOaRnC0ge8ivi7YbS93XkdfKdDoqSNDvnc09agAH4YB8HH+FIHZ4oUMmL6+CHTy7V2YbYmO5M5ZlQqi0Y1dysNHd2KG1jCvUq
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: src/games/game2048/Game2048Initializer.kt
+    visible: true
+    placeholders:
+      - offset: 820
+        length: 152
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 820
+        initialized_from_dependency: false
+        encrypted_possible_answer: FzMcRnEUwO+pHpwMqL8XwBoBQ8eevBsf1hsk9kTGFVhvoVmDokwNiBspf91XvibgLO/RRFrSmpkKC2l7mYHvj1qf30m97SFxhZt1yNX2gk2wpBnOq3bphLsaP+2cgT6WGNzpBq4OD/9/err1X2siNnyiJFLBw5j9gadxIkjVj/xMQVm6ig87+Kp552HiaKteM3HN/9RpFhcipKrHzijEgI43RduHB2bxK6igem23Zm+dtKX42vnPPAzizmabd/1j
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: src/games/gameOfFifteen/GameOfFifteen.kt
+    visible: true
+    placeholders:
+      - offset: 1303
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 381
+        initialized_from_dependency: false
+        encrypted_possible_answer: g25puoAHmyPyqkt3UShToCLlG9Lp6+Oy/8jYRaHQgR4=
+        selected: false
+        status: Solved
+      - offset: 1311
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 389
+        initialized_from_dependency: false
+        encrypted_possible_answer: aSjC98wYSPuMkngABF13MSvK+rZXb9eoGsGpWpfiAmiY4OF975wM0spBNdFviI8TNsJSrn2JHB1iZoe85uFRiC5kcph0VLzooxUECrAo+pF6Cn7boNApK1/YdPS4JOyaQCb2PAVEPHW1WNqSKmz+LEyiGfRWcIH/5sA0oatNLvuXx1A7INLufbHpBTS6+FPYg26RP8VU1PEu5xkB3iFlDVt8YCMhOkVqZuuwHuL1VpvPyR7uleCxRJmZCc9jARCJt1k3p5nm0VA/Z1U+vvDif3DeVQ3DoSJg/uX8plmX3Ct659d4Y5isBbRbWS5LujtlpFiT9MS4l0PNQ2oThVlauXbG36QNaHMKnyKBfiNjhsKfGKgF5Weol7vmPUPcbud4AUmLdkDcUhGHeGifASo+bbbmGT/lfJtpYzil83tcKpU/ZFSXKLkZlR/jRpsmI5yDmLpQFJ6RZyuEIBcedGL1W3QmJwVl7PpPTJAj9NQAcjXFpEQ1whHC7097P8TGNO9gXMOmixcdn27nxFHvdB93czNSq7xFOXoR80N7VMLNEKu+844PdPhjP7ws2mnjdmFJORlL2fUCq82V8Vea30kjYdUfM7/m4/OJCaAno4dVWBGgL/eD3pb7+cuWngdle5/oJo9Y41aYbnihqUq76crF/9/T5oMxIdj1n2uPOiyeSOn4wnoQ0/2aICMB57F4ugLcSAQ83+q6y2NliAt1gPH/8BHv1uu3h07aIDMGTx0jb0c0A0v/t1IEedu6sDjpWkdHcGgNfR0m5DyosjJJWuCUG/LOob2A/kinv3rduUW31uAEWrBixU3BkvNXdveRVNpI9gYpjbTovqe+Fd17Dzm43HqmXK8TnnUGyL5gUCiGVWDavumgthmNFuqUxtXQxr9ZGapIPRBYPIm7xinGbwzjTfKoD4fin2spWiIbMXX1g2M57WTXXOJZHyh2Y9vgeYfySdYob6adDq4qOanueMl3cTZ09vH3kHfsKfshvsGI3/AwhND1iOZ96ABmBOMvkatj//D+L8oGmOsqduT2Ut5kXOZqjnvvTl4gSGsryXtA/QSPK9juKoxtNai/hz3HKjoJyGlfjx4KN0V6nn+jWjGRENBLGhguGy+nTdpIHCsPbs206MC7mdwEo5bTIlxBnTPujLagbFw18In4YFmTx4oGyCORa9I/zAIZi4EluSw+eqaN3i7dC1J3pWa/InMZN7Z4sNKIf0dIKr5JIaOPtmyaBpq+GB8yIWjDtU07Gn0KSJjE3dvEzanzIepSKga5x81CGft4pJhXhKVGBt0D3TacifzoplkAGXXsPq4SE8rQhtUBsB7WLDjD8u3UqLSGSoedwAGU+QQsSSLeqSSzGG7IwiVkqTHG5sjhAnIhfFUtgIMitnMTK7cF/ttmupj+P584u4ixw1AIj84IRmvBu3itTCaEAJcoKP31UDaFQyINve2DmAjJpDJezU6niSFcy61/j8ZSA8N7XHzctuv3VeT1KuhFAxi00eo82O9ih2nx/sQ=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: src/games/gameOfFifteen/GameOfFifteenHelper.kt
+    visible: true
+    placeholders:
+      - offset: 480
+        length: 214
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 480
+        initialized_from_dependency: false
+        encrypted_possible_answer: lwpHaY003SuFyqhtEhnOT3D/od9HqjHsQnJR9uj/7TeUdiCGI1BdAvIQ/AHEbNxbDOwCBTfCBoaBq9sBCwQF/NRlqZCD5qwBRGfqp9jSO4MTIK7DbVL9bwQ4Tq46vhHVO2vnwibMksmHBPn7EKSvegu/kX9acdaniyUyyinL8ACnZOGk/mDrzansDgBLljIgYFhFhjTi83FU+zRbFtJ/h6PoYPGEaKuzmFZHhnd9gvAOoPUjKkpseW791y4eBTiAzZKnqdKf+DTS2qIJGLxdX+dlJwTahEvwVFEpoY+9+SEZOnUhnibZIePEhVCLF4OCwc47N6xbFFFg35rWmjrPsg==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: src/games/gameOfFifteen/GameOfFifteenInitializer.kt
+    visible: true
+    placeholders:
+      - offset: 576
+        length: 251
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 576
+        initialized_from_dependency: false
+        encrypted_possible_answer: jARTQ4F4oaYmePWM8uzsN4Al/uESj0y1JkY8AffmSCUTaqQKRpHsqQiO7qE19ug1g4OzBH9TfP6lAAhsPEF3+kweluu+W04wO1kc6MPepR2I2+EcYFopHJ7q8tX98hr/0wdBm2laGEzrpMcYw/SIzLlwDxdBaHhJ2+qRC0JLrwGTkmmgbGQvogL5xLJcmHkTHzQye7NROtPzs3YomqxetFw+GJaXm2GNiY6tghk42YMJFMIITwbKsZjj3Xuob5or
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: src/games/ui/PlayGame.kt
+    visible: true
+    learner_created: false
+  - name: src/games/ui/PlayGame2048.kt
+    visible: true
+    learner_created: false
+  - name: src/games/ui/PlayGameOfFifteen.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/AbstractTestGameWithSmallNumbers.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestAddingValue.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestGame2048.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestGame2048Helper.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestGame2048Initializer.kt
+    visible: true
+    learner_created: false
+  - name: test/games/board/TestGameBoard.kt
+    visible: true
+    learner_created: false
+  - name: test/games/gameOfFifteen/TestGameOfFifteen.kt
+    visible: true
+    learner_created: false
+  - name: test/games/gameOfFifteen/TestGameOfFifteenHelper.kt
+    visible: true
+    learner_created: false
+  - name: test/games/gameOfFifteen/TestGameOfFifteenInitializer.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestMoveValues.kt
+    visible: true
+    learner_created: false
+  - name: test/games/game2048/TestMoveValuesInRowOrColumn.kt
+    visible: true
+    learner_created: false
+  - name: test/games/board/TestSquareBoard.kt
+    visible: true
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/NSid0/game-2048-game-of-fifteen/discussions
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 12 May 2026 11:24:10 UTC"
+record: -1

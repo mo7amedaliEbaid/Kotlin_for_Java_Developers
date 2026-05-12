@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/mastermind/evaluateGuess.kt
+    visible: true
+    placeholders:
+      - offset: 158
+        length: 650
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 158
+        initialized_from_dependency: false
+        encrypted_possible_answer: nHyl26zyQ74QUWeXVSml/0pjnV+8oRyoGDN6zhxzIwUhccRFE78aJEZuLNDkH9iTEqcvbvPPoMkFWUcS32XCaZ1IB+uun/huUsxXAzUARIfqHFK0qYFmQ05tg09gutrsWcEaTTDgOJo20sSszYzfp3Nwxbvvnf+vcIsS3gmaKdyirgWsUXtETsz8awFQpOvjKdUHwuLnzGYBbbco0IUBUyQRS1cok5aSHPiZaiDbkBXUynfnJjuFyy3IvS/zMQwP02FWP3PIGHGFaBeO+0oUozmkKLUaV0DIoVOOEuNF8n3W/yNnnlKPkUxadeW8ZZnW2Bv6vlsvH9OICx06jswmSL5YA1QHxnvy2EEl5vLujy8=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: src/mastermind/playMastermind.kt
+    visible: true
+    learner_created: false
+  - name: test/mastermind/MastermindTestUtil.kt
+    visible: true
+    learner_created: false
+  - name: test/mastermind/TestMastermindDifferentLetters.kt
+    visible: true
+    learner_created: false
+  - name: test/mastermind/TestMastermindRepeatedLetters.kt
+    visible: true
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/vmwVT/mastermind-game/discussions
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 12 May 2026 11:02:10 UTC"
+record: -1
